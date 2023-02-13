@@ -6,6 +6,7 @@
 <a href="https://github.com/johnnysat">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnysat&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=johnnysat&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<a href="https://git.io/streak-stats"><img height="150em" width="400em" src="https://streak-stats.demolab.com?user=johnnysat&theme=dark&date_format=j%20M%5B%20Y%5D"/></a>
 
 
 
